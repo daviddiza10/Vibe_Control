@@ -1,0 +1,6 @@
+{
+  "name": "VibeControl",
+  "description": "Smart sanctuary control app with Cyber-Chill ambient lighting, streaming, media player, and schedule settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
